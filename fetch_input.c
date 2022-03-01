@@ -8,7 +8,7 @@ int main() {
     int d = 4;
     int e = 5;
 
-    printf("½Ð¿é¤J¤­­Ó¼Æ¦r¡A¥HªÅ¥Õ¹j¶}¡C\n");
+    printf("è«‹è¼¸å…¥äº”å€‹æ•¸å­—ï¼Œä»¥ç©ºç™½éš”é–‹ã€‚\n");
     scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
     //add scanf code to get data from input
     //and feed those input into a, b, c, d, e, respectively.
